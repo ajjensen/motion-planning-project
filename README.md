@@ -16,6 +16,9 @@ http://wiki.ros.org/ROS/Tutorials
 Connecting ROS & Gazebo
 http://gazebosim.org/tutorials?cat=connect_ros
 
+Using ROSLaunch to spawn models
+http://gazebosim.org/tutorials?tut=ros_roslaunch&cat=connect_ros
+
 GAZEBO
 -------
 Guided Tutorials
