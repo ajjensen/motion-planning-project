@@ -19,6 +19,9 @@ http://gazebosim.org/tutorials?cat=connect_ros
 Using ROSLaunch to spawn models
 http://gazebosim.org/tutorials?tut=ros_roslaunch&cat=connect_ros
 
+Package for Motion Planning
+http://wiki.ros.org/navigation
+
 GAZEBO
 -------
 Guided Tutorials
