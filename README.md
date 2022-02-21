@@ -27,6 +27,7 @@ This was a good reference for setting up CARLA on GCP, although I had to make so
 - [Programmatic World Control](http://gazebosim.org/tutorials?tut=plugins_world_properties&cat=write_plugin)
 - [Writing a Plugin](http://gazebosim.org/tutorials?cat=write_plugin)
 - [Control Plugin](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i5)
+- [Car Models](https://github.com/ayushgaud/gazebo_cars)
 
 ### Contributors:
   - Alex Jensen
